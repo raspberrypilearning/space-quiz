@@ -1,17 +1,23 @@
-title: space-quiz
+---
 hero_image: images/banner.png
-description: space-quiz description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 1 # possible values: 1, 2 or 3
+theme: red
+duration: 1
 listed: false
 ingredient: false
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-interests: "jokes/pranks, space, photography, music/sound, physical computing, games, robots"
-technologies: "electronics, sense-hat, physical computing, html/css, scratch, python"
-site_areas:
+title: Space Quiz
+description: Create a Quiz to test your friends' space knowledge.
+original_url: https://codeclubprojects.org/en-GB/space-mission/space-quiz
+interests: ''
+technologies: ''
+site_areas: codeclub, space-mission
 steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Step title
+- title: Introduction
+- title: Add a Quiz Question
+- title: Add a Score
+- title: 'Challenge: Add two more questions'
+- title: Making the Spaceship Move
+- title: 'Challenge: More questions'
+- title: 'Challenge: Meteoroid'
+
