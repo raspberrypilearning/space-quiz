@@ -4,14 +4,12 @@ On 15 December 2015, British astronaut Tim Peake set off on the Principia missio
 
 You are going to create your own space quiz using interesting space facts.
 
-__Try the Quiz:__  Before you begin this project, have a go at the Space Quiz. If you are viewing this project online then you can try the project below. If you have a printed copy then you can go to:  <a href="http://jumpto.cc/space-quiz" target="_blank">jumpto.cc/space-quiz</a> to try it. 
-
-__Hint:__ If you don't know the answers then read the Introduction to this project!
-
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/88401398/?autostart=false" frameborder="0"></iframe>
   <img src="images/space-quiz-final.png">
 </div>
+
+__Hint:__ If you don't know the answers then read the Introduction to this project!
 
 ### Additional information for club leaders
 
