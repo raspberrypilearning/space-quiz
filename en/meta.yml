@@ -1,6 +1,6 @@
 ---
 hero_image: images/space-quiz.png
-theme:  violet
+theme: violet
 duration: 2
 listed: false
 ingredient: false
@@ -16,11 +16,13 @@ hardware: ''
 software: scratch
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
+  completion: engaged
 - title: Add a Quiz Question
 - title: Add a Score
 - title: 'Challenge: Add two more questions'
 - title: Making the Spaceship Move
 - title: 'Challenge: More questions'
+  completion: internal
 - title: 'Challenge: Meteoroid'
